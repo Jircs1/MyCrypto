@@ -86,7 +86,7 @@
     "uuid-by-string": "MyCryptoHQ/uuid-by-string#36afddc",
     "what-input": "5.2.6",
     "whatwg-fetch": "2.0.3",
-    "ws": "7.5.3",
+    "ws": "7.5.10",
     "yup": "0.30.0"
   },
   "devDependencies": {
